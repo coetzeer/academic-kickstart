@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Nelson Bighetti
+title: Raymond Coetzee
 
 # Username (this should match the folder name)
 authors:
@@ -10,20 +10,19 @@ authors:
 superuser: true
 
 # Role/position
-role: Professor of Artificial Intelligence
+# role: Professor of Artificial Intelligence
 
 # Organizations/Affiliations
-organizations:
-- name: Stanford University
-  url: ""
+#organizations:
+#- name: Stanford University
+#  url: ""
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
+bio: My short BIO
 
 interests:
-- Artificial Intelligence
-- Computational Linguistics
-- Information Retrieval
+- Interest 1
+- Interest 2
 
 education:
   courses:

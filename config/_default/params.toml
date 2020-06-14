@@ -15,6 +15,18 @@
 #   Browse user installed themes in `data/themes/`
 theme = "minimal"
 
+#1950s.toml
+#apogee.toml
+#coffee.toml
+#dark.toml
+#forest.toml
+#minimal.toml
+#mr_robot.toml
+#ocean.toml
+#rose.toml
+#strawberry.toml
+
+
 # Enable users to switch between day and night mode?
 day_night = true
 
